@@ -8,4 +8,4 @@ To run this project you will need:
 ```
 
 ## References:
-(Q-learning introduction)[https://visualstudiomagazine.com/articles/2018/10/18/q-learning-with-python.aspx]
+[Q-learning introduction](https://visualstudiomagazine.com/articles/2018/10/18/q-learning-with-python.aspx)
